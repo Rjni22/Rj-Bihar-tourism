@@ -55,7 +55,7 @@ nav ul li.active {
 .hero{
     width: 100%;
     height: auto;
-    background: url(images/br.jpg);
+    background: url(br.jpg);
     color:#faf6f7;
     text-align: center;
     padding: 140px 0;
@@ -408,7 +408,7 @@ box-shadow: 0 0 1.6rem purple;
     .hmm{
         width: 100%;
     height: 90%;
-    background: url(images/cv.jpg);
+    background: url(cv.jpg);
     color:#f5f3f3;
     text-align: center;
     padding: 140px 0;
@@ -436,7 +436,7 @@ box-shadow: 0 0 1.6rem purple;
 .hello{
     width: 100%;
     height: auto;
-    background: url(images/xy.jpg);
+    background: url(xy.jpg);
     color:#faf6f7;
     text-align: center;
     padding: 140px 0;
